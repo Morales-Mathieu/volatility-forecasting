@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project implements a complete volatility forecasting pipeline in Python.
+This project implements a complete volatility forecasting pipeline in Python. 
 
 The objective is to:
 
