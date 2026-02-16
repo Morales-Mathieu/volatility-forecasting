@@ -17,7 +17,7 @@ The objective is to:
 
 The notebook follows a research-style structure and focuses on clarity, reproducibility and economic interpretation.
 Full HTML notebook available here:  
-https://Morales-Mathieu.github.io/volatility-forecasting/docs/index.html
+https://Morales-Mathieu.github.io/volatility-forecasting/index.html
 
 ---
 
