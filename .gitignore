@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optional: keep structure but ignore content)
+data/raw/*
+data/processed/*
+
+# Reports
+reports/figures/*
+reports/tables/*
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Build
+dist/
+build/
+
+# Arch package cache
+*.egg-info/
+
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
