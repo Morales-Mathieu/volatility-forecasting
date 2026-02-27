@@ -2,7 +2,6 @@
 
 ### Multi-Horizon Statistical & Economic Evaluation
 ---
-
 ## Overview
 
 This project implements a complete volatility forecasting pipeline in Python. 
