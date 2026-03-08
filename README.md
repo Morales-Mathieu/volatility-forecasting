@@ -186,5 +186,3 @@ This ensures conclusions are not driven by a specific calibration.
 - Regime-switching models
 - Multi-asset extension
 - Transaction costs in backtests
-
-
