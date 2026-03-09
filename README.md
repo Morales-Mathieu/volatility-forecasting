@@ -177,7 +177,6 @@ Sensitivity tests are performed on:
 This ensures conclusions are not driven by a specific calibration.
 
 ---
-
 ## Possible Extensions
 
 - Student-t GARCH
