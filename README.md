@@ -175,7 +175,6 @@ Sensitivity tests are performed on:
 - GARCH refitting frequency
 
 This ensures conclusions are not driven by a specific calibration.
-
 ---
 ## Possible Extensions
 
